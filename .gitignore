@@ -136,3 +136,6 @@ dist/
 nbdist/
 nbactions.xml
 .nb-gradle/
+
+# Other
+*.iml

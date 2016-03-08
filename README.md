@@ -1,2 +1,2 @@
 # Bounties
-Set bounties on a players
+Set bounties on players

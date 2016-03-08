@@ -1,0 +1,7 @@
+database:
+   name: Bounties
+   host: localhost
+   username: user
+   password: pass
+   port: 3306
+   using: True

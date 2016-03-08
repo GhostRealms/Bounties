@@ -1,0 +1,9 @@
+name: Bounties
+version: 0.1-SNAPSHOT
+main: net.ghostrealms.Bounties
+description: Place bounties on others
+website: www.ghostrealms.net
+author: James Raynor
+commands:
+   bounty:
+      description: Main bounty command

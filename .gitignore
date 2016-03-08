@@ -138,4 +138,4 @@ nbactions.xml
 .nb-gradle/
 
 # Other
-.iml
+*.iml
